@@ -1,0 +1,1 @@
+#pour importer numpy dans un projet python, vous pouvez utiliser la commande suivante: import numpy as np

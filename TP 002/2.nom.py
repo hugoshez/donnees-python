@@ -1,0 +1,3 @@
+nom = "Sanchez"
+
+print (nom)

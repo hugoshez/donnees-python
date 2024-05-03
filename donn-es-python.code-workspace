@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "donn-es-python",
+			"path": "../données python/donn-es-python"
+		},
+		{
+			"name": "faciale",
+			"path": "../données python/faciale"
+		}
+	],
+	"settings": {}
+}

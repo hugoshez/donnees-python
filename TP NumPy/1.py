@@ -1,0 +1,2 @@
+#NumPy est une bibliothèque Python qui prend en charge les tableaux et les matrices multidimensionnels, ainsi que des fonctions mathématiques qui fonctionnent sur ces tableaux.
+#il est important parce qu'il offre des performances élevées pour les calculs numériques et scientifiques.

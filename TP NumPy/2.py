@@ -1,0 +1,1 @@
+# pour installer numpy, vous pouvez utiliser la commande suivante: pip install numpy

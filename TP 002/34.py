@@ -1,0 +1,1 @@
+#pour le "import", on importe tout le module, et pour le "from ... import ... ", on importe seulement la fonction spécifiée.
