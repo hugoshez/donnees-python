@@ -1,0 +1,51 @@
+pytorch
+framework de machine learning open source facebook
+	facile à utiliser
+	graphes de calcul dynamique
+	écosystème ( torchvision traitement des images )
+	Communauté importante
+	Interopérable ( Numpy et intégration avec des plateformes de cloud ONNX
+	Performance
+
+( ONNX  Open Neural Network Exchange )
+
+opencv-python : bibliothèque permettant de faire du traitement de l'image
+fonctionnalités, langages différents, multiplateformes, industrie et recherche, communauté, extensions
+
+PIL ? Python Imaging Library
+
+Pillow ( fork de PILL )
+
+Machine Learning = apprentissage automatique
+	supervisé
+	non supervisé
+
+Algo : réseaux de neuronne, SVM, arbres de décisions, clustering ( k-means )
+neo4j
+
+https://neo4j.com/fr/
+
+TRAVAIL A FAIRE :
+Etude_de_Cas_Développement_d_un_système_de_detection_d_objet_v4.pdf
+https://pytorch.org/docs/stable/index.html
+https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+
+POUR LA SEANCE :
+- ETUDE DE CAS DU JOUR
+- FINIR LES TPS PRECEDENTS
+- PROJET
+
+A produire en bonus une petite vidéo démonstrative de votre code en action :)
+
+https://www.youtube.com/watch?v=tHL5STNJKag
+
+https://www.youtube.com/watch?v=J3cO3VyQXlc
+
+
+
+
+
+
+
+
+

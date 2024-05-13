@@ -1,0 +1,85 @@
+
+20 à 30 minutes pour présenter votre expérience de python à l'écrit de la façon la plus détaillée possible. Réaliser un petit écrit de quelques phrases et l'adresser d'ici quelques minutes sur Moodle. Nom du devoir :  " Quel est votre ADN python "
+
+Lien vers des réalisations python ( ou autres si vous voulez ). Enjoy !
+
+A suivre, aspects pratique de python pour la data
+
+
+
+Code : mm69av
+
+programme indicatif
+
+pythons bases ( mise en place de l'environnement et des outils ). les outils sont libres mais il faudra justifier l'utilisation de tel ou tel outil pour le ou les projets de l'UE
+
+fondamentaux des bibliothèques utiles : Numpy, Pandas
+
+Exploration et nettoyage des données ( découverte )
+Visualisation des données 
+Manipulation avancée *
+Machine learning intro ( deep learning )
+Projet final ( choix à faire dès aujourd'hui ) qui est un choix potenciellement libre
+
+on a jusqu'au 16 mai
+les dates du 14 et du 16 mai sont l'évaluation finale
+
+Même pas abouti un projet est interessant : la méthodologie, les recherches, les problématiques ( de code, d'outil, d'organisation ) est plus interessant que le résultat
+
+travail fourni
+
+Groupe de 1 à 2, si plus il faut me fournir un plan organisationnel du projet ( qui fait quoi, gantt etc... )
+
+INSTALLATION DE PYTHON VERIFIER QUE TOUT EST OK
+VSCODE PYCHARM ( communauty ) ou autres
+Disable path length limit
+
+TEST PYTHON ESSAI à réaliser ( 10 minutes )
+
+
+
+POUR LE PREMIER TP LA RETRANSCRIPTION DES RESOLUTIONS EST TRES IMPORTANTE : VOTRE CAPACITE A RETRANSCRIRE LES REPONSES ET A LES PRESENTER EST EVALUEE TOUT COMME LA FORME FINALE DE VOTRE RENDU
+
+- structure d'un programme
+- un programme python
+- variables et structures de données
+- structures conditionnelles
+- itérations et des boucles
+- fonctions
+- les listes en compréhension
+- les expressions régulières
+- la gestion des exceptions
+
+QUI A DEJA UN PROJET A PROPOSER POUR CE MODULE ?
+
+Fonctions print, input, variables numériques, chaine, booléen, listes, tuples, dictionnaires, les ensembles, liste vs tuples vs dictionnaire vs ensemble, structuration ( indentation etc..), les conditions, les boucles, les fonctions, portée de variables, passage des arguments d'une fonction, la récursivité
+
+bien commenter vos codes
+
+Réaliser le TP 002 Introduction à Python pour l'analyse de données v4
+Barème d'évuation : contenu technique 50%, forme du rendu 50%
+Si terminé demander le deuxième TP ;)
+
+Point projet dans 30 min
+
+On peut faire une petite pause reprise 16H30 ;)
+
+
+
+
+
+
+
+
+A partir du 37 vous pouvez aller plus loin 
+
+
+
+
+
+
+
+
+
+
+
